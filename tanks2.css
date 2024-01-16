@@ -1,0 +1,186 @@
+html {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.game-zone {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    background-image: url("back.png");
+    min-height: 800px;
+    height: 800px;
+    width: 800px;
+    border: black 3px solid;
+}
+
+.player {
+    position: absolute;
+    width: 78px;
+    height: 77px;
+    background-image: url("tankB.png");
+    background-repeat: no-repeat;
+}
+
+.player2 {
+    position: absolute;
+    width: 78px;
+    height: 77px;
+    background-image: url("tank2B.png");
+    background-repeat: no-repeat;
+}
+
+.wol2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 239px;
+    top: 558px;
+}
+
+.wol {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 159px;
+    top: 558px;
+}
+
+.wol3 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 159px;
+    top: 159px;
+}
+
+.wol5 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 239px;
+    top: 159px;
+}
+
+.wol4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 479px;
+    top: 159px;
+}
+
+.wol6 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 559px;
+    top: 159px;
+}
+
+.wol7 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 319px;
+    top: 558px;
+}
+
+.wol8 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 399px;
+    top: 558px;
+}
+
+.wol9 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 479px;
+    top: 558px;
+}
+
+.wol10 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 559px;
+    top: 558px;
+}
+
+.wol11 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 319px;
+    top: 478px;
+}
+
+.wol12 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 399px;
+    top: 478px;
+}
+
+.wol13 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    left: 399px;
+    top: 398px;
+}
+
+.wol14 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-image: url("wol.png");
+    background-repeat: repeat;
+    top: 398px;
+    left: 319px;
+    /*display: block;*/
+    /*position: absolute;*/
+}
+
+.shot {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-image: url("shot.png");
+}
+
+.shottwo {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-image: url("shot.png");
+}
